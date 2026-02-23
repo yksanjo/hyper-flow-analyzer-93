@@ -1,5 +1,12 @@
 # hyper-flow-analyzer-93
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/hyper-flow-analyzer-93/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/hyper-flow-analyzer-93/actions)
+![License](https://img.shields.io/github/license/yksanjo/hyper-flow-analyzer-93)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/hyper-flow-analyzer-93)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/hyper-flow-analyzer-93)
+
 ## Detailed Description
 
 hyper-flow-analyzer-93 is maintained as an industry-grade software project with production-ready engineering practices.  
